@@ -57,6 +57,7 @@ namespace LabWork
 
         public override void SetCoefficients()
         {
+
             Console.WriteLine("Введiть коефiцiєнти для кубiчного рiвняння:");
             Console.Write("a3: ");
             a3 = Convert.ToDouble(Console.ReadLine());
